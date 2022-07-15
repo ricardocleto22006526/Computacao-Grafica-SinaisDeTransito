@@ -11,7 +11,7 @@ Modo de utilização:
 
 ➔ Na primeira coluna colocar o path todo para a pasta imagens que neste caso está 'projetoComputacao\images'
 
-➔ Colocar '' no final
+➔ Colocar '\' no final
 
 ➔ abrir o compilador e correr
 
